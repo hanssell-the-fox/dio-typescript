@@ -5,5 +5,5 @@
 
 ### Como executar
 ```
-npx -p typescript
+npx -p typescript tsc
 ```
